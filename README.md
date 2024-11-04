@@ -6,6 +6,7 @@ Team Lead | Web Developer
 Email: bcavishal2@gmail.com
 LinkedIn: linkedin.com/in/vishal-prajapati-bb67ba2ab
 Location: Ahmedabad, India
+
 A Bit About My Journey:
 I am a passionate full stack web developer with more than 1 year of experience in the Aekads/ElekGo Technology. I started my journey with an internship and transitioned into a full-time role, working on diverse projects that helped me grow as a developer and team leader. With expertise in the MERN stack, I have developed scalable applications and solved complex problems, contributing to both frontend and backend development.
 
@@ -20,6 +21,8 @@ Backend: Express.js, MongoDB, PostgreSQL, Sequelize
 Cloud: AWS S3 Bucket, Cloudinary
 Version Control: Git, GitHub
 Other Tools: Visual Studio Code, Docker, Sequelize ORM
+
+
 Some of My Projects:
 **[E-commerce Web App]: A full-fledged e-commerce platform built using React.js for the frontend and Express.js with MongoDB for the backend, featuring user authentication, product listings, and a shopping cart.
 **[Dashboard Application]: A dynamic and responsive admin dashboard built with React.js, providing real-time data visualization and user management.
